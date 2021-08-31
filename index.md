@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Tito Tacio
 
-You can use the [editor on GitHub](https://github.com/TitoTacio/TitoTacio.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Tito Tacio a​ (m. Lavinio, 745 a. C.) fue un rey sabino originario de Cures que también compartió con Rómulo el trono de Roma.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Atacó a los romanos para vengar el rapto de las mujeres jóvenes de su pueblo. En pleno conflicto intervinieron las sabinas interponiéndose entre ambos bandos combatientes para que dejasen de matarse porque, razonaron, si ganaban los romanos perdían a sus padres y hermanos, y si ganaban los sabinos perdían a sus maridos e hijos. Tuvieron éxito en su gestión logrando hacer entrar en razón a los contendientes. Finalmente se celebró un banquete para festejar la reconciliación.
 
-### Markdown
+Tacio se asoció con Rómulo, con el que gobernó en buena concordia durante cinco años formando una diarquía1​ (fin del reinado en 745 a. C.). Tacio concedió a Rómulo la mano de su hija Hersilia, llegando también a casarse el que sería rey de Roma, Numa Pompilio, con su hija Tacia.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El palacio real estaba situado en el Monte Capitolino, en el mismo lugar donde más tarde sería edificado el templo de Juno.
 
-```markdown
-Syntax highlighted code block
+Tras la unión de sabinos y romanos, la ciudad de Roma mantuvo su nombre, y cada ciudadano fue llamado romano, pero como comunidad fueron llamados Quiritas. La diarquía finalizó tras la muerte de Tacio que fue asesinado como venganza por las ofensas causadas por parientes de Tacio al embajador en Roma de los laurentinos, habitantes de Lavinio: los laurentinos, que se habían sentido insultados por Tacio, se aprovecharon de un sacrificio solemne que el rey realizaba en su ciudad para matarlo. El cadáver de Tacio fue transportado a Roma y sepultado en el monte Aventino. Sobre su tumba se realizarían anualmente sacrificios en honor a los muertos.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Con su muerte quedó Rómulo como único gobernante. Por esta razón Tacio no se incluye como uno de los tradicionales «Siete Reyes de Roma» (Rómulo, Numa Pompilio, Tulio Hostilio, Anco Marcio, Tarquinio Prisco, Servio Tulio, Tarquinio el Soberbio (de 753 a. C. hasta 509 a. C. según la cronología tradicional).
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Tito Tacio](https://es.wikipedia.org/wiki/Tito_Tacio).
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TitoTacio/TitoTacio.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contenido multimedia
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+aqui [tito](https://commons.wikimedia.org/wiki/Category:Titus_Tatius)
